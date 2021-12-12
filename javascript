@@ -1,4 +1,4 @@
-//developed by ax shivam sharma HBTU kanpur
+
 console.log("History:")
 function log() {
   var box = document.getElementById('display1');
